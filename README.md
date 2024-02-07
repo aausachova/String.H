@@ -1,4 +1,4 @@
-# \(^‥^=)~ String.H ~(=^‥^)/
+# String.H 🚘🏁🚘
 
 ## Information
 
