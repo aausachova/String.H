@@ -111,6 +111,8 @@
 | 4 | void *trim(const char *src, const char *trim_chars) | Возвращает новую строку, в которой удаляются все начальные и конечные вхождения набора заданных символов (trim_chars) из данной строки (src). В случае какой-либо ошибки следует вернуть значение NULL. |
 
 
+![telegram-cloud-photo-size-2-5341424816722400965-x](https://github.com/aausachova/String.H/assets/143784011/7f47062f-e107-4741-9c89-4668d8736f87)
+
 
 ## Part 1. Реализация функций библиотеки string.h
 
